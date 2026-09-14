@@ -1,0 +1,6 @@
+{
+  "name": "VisionGuard AI - Videomonitoramento Inteligente",
+  "description": "Sistema avançado de videomonitoramento ao vivo com IA embarcada, cadastro de DVR/NVR/IP, perímetro inteligente, 2FA, LGPD e criptografia ponta a ponta.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
